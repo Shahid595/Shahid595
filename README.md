@@ -2,7 +2,7 @@
 
 
 🌱 I'am an IT Support professional with hands-on experience deploying and managing Active Directory in Microsoft Azure.
-    Built and configured a Windows Server VM, promoted it to Domain Controller, managed 
+    I've Built and configured a Windows Server VM, promoted it to Domain Controller, managed 
     AD DS, and joined client machines to the domain.
   
 🎓 Certifications in: ISC2 CC | CompTIA A+ | CompTIA Sec+
