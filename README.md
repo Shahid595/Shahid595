@@ -1,30 +1,20 @@
 ## Hi there 👋
+### Profile
+🌱 I'm an IT support proffesional with hands-on experience designing deploying Active Directory environemnts in Microsoft Azure. I've provisioned and configured a Windows Server VM, promoted it to a Domain Controller, installed and managed Active Directory Domain Services (AD DS), configured DNS, created and strucutred Organizational Units, applied GPOs, and managed domain- joined client machines within a secure virtual environment.
 
+## 🎓 Certifications:
+ISC2 CC | CompTIA A+ | CompTIA Sec+
 
-🌱 I'am an IT Support professional with hands-on experience deploying and managing Active Directory in Microsoft Azure.
-    I've Built and configured a Windows Server VM, promoted it to Domain Controller, managed 
-    AD DS, and joined client machines to the domain.
-  
-🎓 Certifications in: ISC2 CC | CompTIA A+ | CompTIA Sec+
-  -Building strong IT support foundations with a long-term goal in cybersecurity.
+## 🔭 Currently working on:
+* Learning Powershell automation for Identity & Acess Managment (e.g Bulk user Operations, Group Automation, Security Audits)
+* Technical Troubleshooting skills (Windows, Networking, User support)
+* Active Directory ~ Group Policy Management
+* Expanding Security Monitoring Fundamentals (SIEMs- Splunk)
 
-🔭 Currently Working On:
-    -Strengthening troubleshooting skills (Windows, netwroking, user support)
-    -Active Directory user and Group Policy management 
-    -Learning PowerShell automation
-    -Expanding security monitioring fundamentals
+## 🛠️ Tools & Technologies
+Windows 10/11 | Windows Server | Active Directory | Group Policy | Microsoft Azure | DNS | DHCP | TCP/IP | PowerShell | SIEM
 
-  🔧 My Utilized Tools and Technologies includes:
-    -Windows 10/11
-    -Windows Server
-    -AD DS
-    -Azure
-    -DNS/ DHCP
-    -TCP/ IP
-    -Group Policy
-    -Powershell
-
-  📫 How to reach me:
-  LinkedIn:
-  Email: samnanishahid999@gmail.com
+### 📫 You can contact me via
+* LinkedIn:
+* Email: samnanishahid999@gmail.com
 
