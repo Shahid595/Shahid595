@@ -1,6 +1,6 @@
 ## Hi there 👋
 ## Profile
-🌱 I'm an IT support proffesional with hands-on experience designing deploying Active Directory environemnts in Microsoft Azure. I've provisioned and configured a Windows Server VM, promoted it to a Domain Controller, installed and managed Active Directory Domain Services (AD DS), configured DNS, created and strucutred Organizational Units, applied GPOs, and managed domain and , finally  joined client machines within a secure virtual environment.
+🌱 I'm an IT support proffesional with hands-on experience designing deploying Active Directory environemnts in Microsoft Azure. I've provisioned and configured a Windows Server VM, promoted it to a Domain Controller, installed and managed Active Directory Domain Services (AD DS), configured DNS, created and strucutred Organizational Units, applied GPOs, and managed domain and, finally  joined client machines within a secure virtual environment.
 
 ## 🎓 Certifications:
 ISC2 CC | CompTIA A+ | CompTIA Sec+
